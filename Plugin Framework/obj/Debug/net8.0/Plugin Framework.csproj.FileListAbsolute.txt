@@ -1,0 +1,33 @@
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.csproj.AssemblyReference.cache
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.AssemblyInfoInputs.cache
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.AssemblyInfo.cs
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.csproj.CoreCompileInputs.cache
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\appsettings.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Plugin Framework.exe
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Plugin Framework.deps.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Plugin Framework.runtimeconfig.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Plugin Framework.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Plugin Framework.pdb
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Business.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\bin\Debug\net8.0\Business.pdb
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets\msbuild.Plugin Framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets\msbuild.build.Plugin Framework.props
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Plugin Framework.props
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Plugin Framework.props
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\scopedcss\bundle\Plugin Framework.styles.css
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.csproj.CopyComplete
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\refint\Plugin Framework.dll
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.pdb
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\Plugin Framework.genruntimeconfig.cache
+C:\Users\Vahe\source\repos\Plugin Framework\Plugin Framework\obj\Debug\net8.0\ref\Plugin Framework.dll
